@@ -54,7 +54,7 @@ export GROQ_API_KEY=your_groq_api_key
 ## 🧪 Run the Crew
 
 ```bash
-python src/porject1/main.py
+python src/project1/main.py
 ```
 
 This will:
@@ -70,7 +70,7 @@ This will:
 ```
 project1/
 ├── src/
-│   └── porject1/
+│   └── project1/
 │       ├── crew.py            # Defines agents, tasks, and crew workflow
 │       ├── main.py            # Entrypoint for running the crew
 │       └── config/
