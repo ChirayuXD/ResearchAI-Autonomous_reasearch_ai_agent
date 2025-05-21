@@ -1,7 +1,3 @@
-Absolutely! Here's a clean and informative `README.md` for your **Research Crew** project, tailored to its current structure and purpose.
-
----
-
 ````markdown
 # 🧠 Research Crew
 
