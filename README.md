@@ -28,8 +28,8 @@ This project uses [CrewAI](https://docs.crewai.com/) to orchestrate autonomous a
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/research-crew.git
-cd research-crew
+git clone https://github.com/your-username/project1.git
+cd project1
 ````
 
 ### 2. Install Dependencies
@@ -54,7 +54,7 @@ export GROQ_API_KEY=your_groq_api_key
 ## 🧪 Run the Crew
 
 ```bash
-python src/research_crew/main.py
+python src/porject1/main.py
 ```
 
 This will:
@@ -68,9 +68,9 @@ This will:
 ## 🧩 Project Structure
 
 ```
-research-crew/
+project1/
 ├── src/
-│   └── research_crew/
+│   └── porject1/
 │       ├── crew.py            # Defines agents, tasks, and crew workflow
 │       ├── main.py            # Entrypoint for running the crew
 │       └── config/
